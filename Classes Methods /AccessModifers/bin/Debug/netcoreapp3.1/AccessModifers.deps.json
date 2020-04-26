@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AccessModifers/1.0.0": {
+        "runtime": {
+          "AccessModifers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessModifers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

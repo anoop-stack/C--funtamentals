@@ -1,0 +1,12 @@
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/bin/Debug/netcoreapp3.1/Composition.deps.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/bin/Debug/netcoreapp3.1/Composition.runtimeconfig.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/bin/Debug/netcoreapp3.1/Composition.runtimeconfig.dev.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/bin/Debug/netcoreapp3.1/Composition.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/bin/Debug/netcoreapp3.1/Composition.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/obj/Debug/netcoreapp3.1/Composition.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/obj/Debug/netcoreapp3.1/Composition.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/obj/Debug/netcoreapp3.1/Composition.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/obj/Debug/netcoreapp3.1/Composition.AssemblyInfo.cs
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/obj/Debug/netcoreapp3.1/Composition.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/obj/Debug/netcoreapp3.1/Composition.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Class Assoication/Composition/obj/Debug/netcoreapp3.1/Composition.genruntimeconfig.cache

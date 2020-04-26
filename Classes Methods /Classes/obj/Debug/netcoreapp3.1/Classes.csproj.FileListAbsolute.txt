@@ -1,0 +1,12 @@
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/bin/Debug/netcoreapp3.1/Classes.deps.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.dev.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/bin/Debug/netcoreapp3.1/Classes.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/bin/Debug/netcoreapp3.1/Classes.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/obj/Debug/netcoreapp3.1/Classes.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/obj/Debug/netcoreapp3.1/Classes.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfo.cs
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/obj/Debug/netcoreapp3.1/Classes.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/obj/Debug/netcoreapp3.1/Classes.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Classes/obj/Debug/netcoreapp3.1/Classes.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/bin/Debug/netcoreapp3.1/MethodsFun.deps.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/bin/Debug/netcoreapp3.1/MethodsFun.runtimeconfig.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/bin/Debug/netcoreapp3.1/MethodsFun.runtimeconfig.dev.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/bin/Debug/netcoreapp3.1/MethodsFun.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/bin/Debug/netcoreapp3.1/MethodsFun.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/obj/Debug/netcoreapp3.1/MethodsFun.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/obj/Debug/netcoreapp3.1/MethodsFun.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/obj/Debug/netcoreapp3.1/MethodsFun.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/obj/Debug/netcoreapp3.1/MethodsFun.AssemblyInfo.cs
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/obj/Debug/netcoreapp3.1/MethodsFun.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/obj/Debug/netcoreapp3.1/MethodsFun.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/MethodsFun/obj/Debug/netcoreapp3.1/MethodsFun.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pw/cKj6ULcFotmCQMblPGXFMvzsFeNzmenG3ZLstoJ412gB8WYdMYo0xq22TdLGQas7Wp+VbkcM8oCUT2io2Q==",
+  "success": true,
+  "projectFilePath": "/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/AccessModifiers/AccessModifiers.Repository/AccessModifiers.Repository.csproj",
+  "expectedPackageFiles": [
+    "/Users/anoopkumar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/anoopkumar/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

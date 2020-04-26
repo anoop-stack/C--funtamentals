@@ -1,0 +1,12 @@
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/bin/Debug/netcoreapp3.1/Constructor-Inheritnace.deps.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/bin/Debug/netcoreapp3.1/Constructor-Inheritnace.runtimeconfig.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/bin/Debug/netcoreapp3.1/Constructor-Inheritnace.runtimeconfig.dev.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/bin/Debug/netcoreapp3.1/Constructor-Inheritnace.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/bin/Debug/netcoreapp3.1/Constructor-Inheritnace.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/obj/Debug/netcoreapp3.1/Constructor-Inheritnace.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/obj/Debug/netcoreapp3.1/Constructor-Inheritnace.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/obj/Debug/netcoreapp3.1/Constructor-Inheritnace.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/obj/Debug/netcoreapp3.1/Constructor-Inheritnace.AssemblyInfo.cs
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/obj/Debug/netcoreapp3.1/Constructor-Inheritnace.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/obj/Debug/netcoreapp3.1/Constructor-Inheritnace.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/Constructor-Inheritnace/obj/Debug/netcoreapp3.1/Constructor-Inheritnace.genruntimeconfig.cache

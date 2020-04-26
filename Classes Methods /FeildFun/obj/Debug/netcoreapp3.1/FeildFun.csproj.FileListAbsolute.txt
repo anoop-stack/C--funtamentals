@@ -1,0 +1,12 @@
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/bin/Debug/netcoreapp3.1/FeildFun.deps.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/bin/Debug/netcoreapp3.1/FeildFun.runtimeconfig.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/bin/Debug/netcoreapp3.1/FeildFun.runtimeconfig.dev.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/bin/Debug/netcoreapp3.1/FeildFun.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/bin/Debug/netcoreapp3.1/FeildFun.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/obj/Debug/netcoreapp3.1/FeildFun.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/obj/Debug/netcoreapp3.1/FeildFun.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/obj/Debug/netcoreapp3.1/FeildFun.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/obj/Debug/netcoreapp3.1/FeildFun.AssemblyInfo.cs
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/obj/Debug/netcoreapp3.1/FeildFun.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/obj/Debug/netcoreapp3.1/FeildFun.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/FeildFun/obj/Debug/netcoreapp3.1/FeildFun.genruntimeconfig.cache

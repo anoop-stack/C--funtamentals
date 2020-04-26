@@ -1,0 +1,12 @@
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/bin/Debug/netcoreapp3.1/Indexer.deps.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/bin/Debug/netcoreapp3.1/Indexer.runtimeconfig.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/bin/Debug/netcoreapp3.1/Indexer.runtimeconfig.dev.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/bin/Debug/netcoreapp3.1/Indexer.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/bin/Debug/netcoreapp3.1/Indexer.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/obj/Debug/netcoreapp3.1/Indexer.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/obj/Debug/netcoreapp3.1/Indexer.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/obj/Debug/netcoreapp3.1/Indexer.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/obj/Debug/netcoreapp3.1/Indexer.AssemblyInfo.cs
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/obj/Debug/netcoreapp3.1/Indexer.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/obj/Debug/netcoreapp3.1/Indexer.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/Classes Methods/Indexer/obj/Debug/netcoreapp3.1/Indexer.genruntimeconfig.cache

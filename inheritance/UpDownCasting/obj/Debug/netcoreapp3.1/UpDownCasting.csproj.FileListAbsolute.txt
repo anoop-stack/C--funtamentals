@@ -1,0 +1,12 @@
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/bin/Debug/netcoreapp3.1/UpDownCasting.deps.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/bin/Debug/netcoreapp3.1/UpDownCasting.runtimeconfig.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/bin/Debug/netcoreapp3.1/UpDownCasting.runtimeconfig.dev.json
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/bin/Debug/netcoreapp3.1/UpDownCasting.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/bin/Debug/netcoreapp3.1/UpDownCasting.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/obj/Debug/netcoreapp3.1/UpDownCasting.csprojAssemblyReference.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/obj/Debug/netcoreapp3.1/UpDownCasting.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/obj/Debug/netcoreapp3.1/UpDownCasting.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/obj/Debug/netcoreapp3.1/UpDownCasting.AssemblyInfo.cs
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/obj/Debug/netcoreapp3.1/UpDownCasting.dll
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/obj/Debug/netcoreapp3.1/UpDownCasting.pdb
+/Volumes/Macintosh HD/Users/Anoop/Study/Projects/C#/Part-2/inheritance/UpDownCasting/obj/Debug/netcoreapp3.1/UpDownCasting.genruntimeconfig.cache
